@@ -2,7 +2,8 @@
 //  main.cpp
 //  JumpIt_Cost_Recursive
 //
-//There is absolutely no warranty whatsoever in any shape or form.
+/*The code is provided As is. There is absolutely no warranty whatsoever in any shape or form. However, if you know a better or an interesting way to solve the problem, please let me know.
+ */
 
 
 #include <iostream>
